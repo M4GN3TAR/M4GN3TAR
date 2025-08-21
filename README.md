@@ -18,6 +18,7 @@
 
 <br clear="both">
 
+- I am Brazilian...
 - I Really like what i do 😝
 - I am just a student
 - Making it simple
