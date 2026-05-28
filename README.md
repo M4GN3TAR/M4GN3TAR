@@ -62,10 +62,10 @@
   <a href="https://discord.com/users/544276723621953634" target="_blank">
     <img src="https://blob.gifcities.org/gifcities/ZIHCAPZ7QM3CGAHIVDCWVZI2FJDS2F4Q.gif" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="mailto:gustavocarvalhogomide@gmail.com" target="_blank">
+  <a href="mailto:gustavocarvalhogomide@proton.me" target="_blank">
     <img src="https://web.archive.org/web/20091027173623if_/http://geocities.com/jenle86/Animation/email.gif" width="50" height="50" alt="gmail logo"  />
   </a>
-  <a href="https://tryhackme.com/p/M4GN3TAR" target="_blank">
+  <a href="https://tryhackme.com/p/Yotta2k" target="_blank">
     <img src="https://blob.gifcities.org/gifcities/ZOL2DUVM4BG4M5EKJWT6LDO7OWXEMG4T.gif" width="52" height="40" alt="tryhackme logo"  />
   </a>
 </div>
